@@ -1,2 +1,2 @@
 # Kanggle-Pandas
-curso guiado pela plataforma Kanggle
+>curso guiado pela plataforma Kanggle
